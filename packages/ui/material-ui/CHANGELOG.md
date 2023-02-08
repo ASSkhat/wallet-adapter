@@ -1,5 +1,11 @@
 # @solana/wallet-adapter-material-ui
 
+## 0.16.26
+
+### Patch Changes
+
+-   9c7e7321: Uses default import for @mui/icons-material
+
 ## 0.16.25
 
 ### Patch Changes
